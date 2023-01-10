@@ -5,7 +5,6 @@
 - [Saving Money, Time and Accelerating Innovation](https://mannybecerra.com/posts/tds-saving-money-time-and-accelerating-innovation)
 - [Hispanic Heritage Month 2022](https://mannybecerra.com/posts/hispanic-heritage-month-2022)
 - [TDS v7 Launch and Tesla Native App Adoption](https://mannybecerra.com/posts/tds-v7-launch-and-tesla-native-app-adoption)
-- [What Just Happened?](https://mannybecerra.com/posts/tesla-workplace-culture-and-leadership-in-question)
 - [Shoutout to the Open Source Ecosystem](https://mannybecerra.com/posts/gratitude-to-open-source-ecosystem)
 - [Introducing the New Latinos at Tesla Brand](https://mannybecerra.com/posts/introducing-the-new-latinos-at-tesla-brand)
 
